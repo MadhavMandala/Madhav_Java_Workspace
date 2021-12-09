@@ -48,7 +48,7 @@ public class NumPyramid {
 			
 			i--;
 		}
-	//This is push from Mac Air	
+	//This is push from Mac Air	--2
 		
 	}
 
