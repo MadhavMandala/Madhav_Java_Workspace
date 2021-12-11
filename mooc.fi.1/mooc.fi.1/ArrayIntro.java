@@ -24,7 +24,7 @@ public class ArrayIntro {
 		for(int i = 0; i<secExample.length; i++) {
 			System.out.print(secExample[i] + " ");
 		}
-		
+		//test commit after project setup
 		
 	}
 
