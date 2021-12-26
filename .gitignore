@@ -2,7 +2,3 @@
 **/mooc.fi.2/**/*.class
 **/mooc.fi.3/**/*.class
 .DS_Store
-.idea/*.xml
-**/mooc.fi.1/*.iml
-**/mooc.fi.2/*.iml
-**/mooc.fi.3/*.iml
