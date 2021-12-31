@@ -1,66 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4445e267-35af-4846-aac6-4d1a6e6b0aaa" name="Changes" comment="updated gitignore">
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.3/mooc.fi.3/mooc/fi/three4/Strings9.java" afterDir="false" />
+    <list default="true" id="4445e267-35af-4846-aac6-4d1a6e6b0aaa" name="Changes" comment="mooc.fi.4 creation">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/_mylyn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048/2048.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator Project/Calculator Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer Stress Test/Computer Stress Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minesweeper/Minesweeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs/OOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/misc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/mooc.fi.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs1/OOPs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs10/OOPs10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs10/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs11/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs11/OOPs11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs12/Gauge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs12/OOPs12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs13/Agent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs13/OOPs13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs14/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs14/OOPs14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs15/OOPs15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs15/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs16/OOPs16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs16/PaymentCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs2/OOPs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs4/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs5/OOPs5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs5/Whistle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs6/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs6/OOPs6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs7/OOPs7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs7/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs8/DecreasingCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs8/OOPs8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs9/Debt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs9/OOPs9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/ArrayIntro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/ArrayRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/ArrayRotation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/BianarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/BianarySearchV2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/CharacterCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Coin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/CoinGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/CoinPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/ConsecIntSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/CorrespondingCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Counting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Dice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/DicePlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/DoubleToString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/FibbonacciGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/FirstNonRepeatingCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/FloydTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Grades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/IndexSearching2Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Index_Searching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/LargestSubset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/LiarsDice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/MedianOf2Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Mode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/NumPyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/NumberingSystems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/PlayerTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/PowerOf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Pyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/RevNumSystems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/ReverseInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/SWAP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/SmallestSubset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/TwoDArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mooc.fi.1/twodarraystest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mooc.fi.4/src/four1/testClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +61,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -88,15 +80,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Strings10">
-    <configuration name="Strings10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc.fi.three4.Strings10" />
-      <module name="mooc.fi.3" />
+  <component name="RunManager" selected="Application.OOPs16">
+    <configuration name="OOPs12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four1.OOPs12.OOPs12" />
+      <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc.fi.three4.*" />
+          <option name="PATTERN" value="four1.OOPs12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc.fi.three4.Strings6" />
-      <module name="mooc.fi.3" />
+    <configuration name="OOPs13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four1.OOPs13.OOPs13" />
+      <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc.fi.three4.*" />
+          <option name="PATTERN" value="four1.OOPs13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc.fi.three4.Strings7" />
-      <module name="mooc.fi.3" />
+    <configuration name="OOPs14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four1.OOPs14.OOPs14" />
+      <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc.fi.three4.*" />
+          <option name="PATTERN" value="four1.OOPs14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc.fi.three4.Strings8" />
-      <module name="mooc.fi.3" />
+    <configuration name="OOPs15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four1.OOPs15.OOPs15" />
+      <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc.fi.three4.*" />
+          <option name="PATTERN" value="four1.OOPs15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc.fi.three4.Strings9" />
-      <module name="mooc.fi.3" />
+    <configuration name="OOPs16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four1.OOPs16.OOPs16" />
+      <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc.fi.three4.*" />
+          <option name="PATTERN" value="four1.OOPs16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Strings10" />
-        <item itemvalue="Application.Strings9" />
-        <item itemvalue="Application.Strings8" />
-        <item itemvalue="Application.Strings7" />
-        <item itemvalue="Application.Strings6" />
+        <item itemvalue="Application.OOPs16" />
+        <item itemvalue="Application.OOPs15" />
+        <item itemvalue="Application.OOPs14" />
+        <item itemvalue="Application.OOPs13" />
+        <item itemvalue="Application.OOPs12" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640548364883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mooc.fi.4 creation">
+      <created>1640795535758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640795535758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated gitignore" />
+    <MESSAGE value="mooc.fi.4 creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="mooc.fi.4 creation" />
   </component>
 </project>
