@@ -1,50 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4445e267-35af-4846-aac6-4d1a6e6b0aaa" name="Changes" comment="mooc.fi.4 creation">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/_mylyn.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048/2048.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator Project/Calculator Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computer Stress Test/Computer Stress Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minesweeper/Minesweeper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs/OOPs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/misc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/mooc.fi.4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs1/OOPs1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs10/OOPs10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs10/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs11/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs11/OOPs11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs12/Gauge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs12/OOPs12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs13/Agent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs13/OOPs13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs14/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs14/OOPs14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs15/OOPs15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs15/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs16/OOPs16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs16/PaymentCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs2/OOPs2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs4/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs5/OOPs5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs5/Whistle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs6/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs6/OOPs6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs7/OOPs7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs7/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs8/DecreasingCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs8/OOPs8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs9/Debt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four1/OOPs9/OOPs9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4445e267-35af-4846-aac6-4d1a6e6b0aaa" name="Changes" comment="OOPs">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four2/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four2/PersonalInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc.fi.4/src/four2/TelevisionPrograms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc.fi.4/src/four1/testClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -83,13 +47,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.OOPs16">
-    <configuration name="OOPs12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="four1.OOPs12.OOPs12" />
+  <component name="RunManager" selected="Application.Book">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four2.Book" />
       <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="four1.OOPs12.*" />
+          <option name="PATTERN" value="four2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,38 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPs13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="four1.OOPs13.OOPs13" />
+    <configuration name="Items" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four2.Items" />
       <module name="mooc.fi.4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="four1.OOPs13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOPs14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="four1.OOPs14.OOPs14" />
-      <module name="mooc.fi.4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="four1.OOPs14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOPs15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="four1.OOPs15.OOPs15" />
-      <module name="mooc.fi.4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="four1.OOPs15.*" />
+          <option name="PATTERN" value="four2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,6 +80,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="four1.OOPs16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonalInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four2.PersonalInformation" />
+      <module name="mooc.fi.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="four2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionPrograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="four2.TelevisionPrograms" />
+      <module name="mooc.fi.4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="four2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.TelevisionPrograms" />
+        <item itemvalue="Application.PersonalInformation" />
+        <item itemvalue="Application.Items" />
         <item itemvalue="Application.OOPs16" />
-        <item itemvalue="Application.OOPs15" />
-        <item itemvalue="Application.OOPs14" />
-        <item itemvalue="Application.OOPs13" />
-        <item itemvalue="Application.OOPs12" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640795535758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOPs">
+      <created>1640979117972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640979117972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated gitignore" />
     <MESSAGE value="mooc.fi.4 creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="mooc.fi.4 creation" />
+    <MESSAGE value="OOPs" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPs" />
   </component>
 </project>
